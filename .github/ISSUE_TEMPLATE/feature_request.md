@@ -7,14 +7,16 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+layout: post
+title:  "論文タイトル"
+date:   YYYY-MM-DD
+categories: CV NLP Others
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 1. どんなもの？
+## 2. 先行研究と比べてどこがすごいの？
+## 3. 技術や手法の"キモ"はどこにある？
+## 4. どうやって有効だと検証した？
+## 5. 議論はあるか？
+## 6. 次に読むべき論文はあるか？
+### 論文情報・リンク
+* [著者，"タイトル，" ジャーナル名，voluem，no.，ページ，年](論文リンク)
