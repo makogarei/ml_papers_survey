@@ -6,7 +6,7 @@
 - VGG
     - [19_11_26](https://github.com/seiichiro0427/ml_papers_survey/issues/2)
     - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
-    - Pytorch実装
+    - [Pytorch実装](https://github.com/seiichiro0427/pytorch_learning/blob/master/models/vgg.py)
 
 
 ## ■ 論文要約フォーマット（要約バージョン）
