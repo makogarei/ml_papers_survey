@@ -3,6 +3,11 @@
 ## NLP
 
 ## CV 
+- VGG
+    - [19_11_26](https://github.com/seiichiro0427/ml_papers_survey/issues/2)
+    - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+    - Pytorch実装
+
 
 ## ■ 論文要約フォーマット（要約バージョン）
 ```
@@ -13,7 +18,6 @@ categories: CV NLP Others
 ## 1. どんなもの？
 ## 2. 先行研究と比べてどこがすごいの？
 ## 3. 技術や手法の"キモ"はどこにある？
-![Figure 1]({{ site.baseurl }}/assets/img/(cv, nlp, others)/(title)/figure1.png)
 ## 4. どうやって有効だと検証した？
 ## 5. 議論はあるか？
 ## 6. 次に読むべき論文はあるか？
