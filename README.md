@@ -8,6 +8,11 @@
     - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
     - [Pytorch実装](https://github.com/seiichiro0427/pytorch_learning/blob/master/models/vgg.py)
 
+- ResNet
+    - [19_11_28](https://github.com/seiichiro0427/ml_papers_survey/issues/3)
+    - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+    - [Pytorch実装](https://github.com/seiichiro0427/pytorch_learning/blob/master/models/resnet.py)
+
 
 ## ■ 論文要約フォーマット（要約バージョン）
 ```
